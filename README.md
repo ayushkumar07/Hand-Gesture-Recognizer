@@ -1,2 +1,3 @@
 # gesture-recognition
-Recognizing "Hand Gestures" using OpenCV and Python.
+This is a Machine Learning based project which uses OpenCV and Python to recognize "Hand Gestures".
+
